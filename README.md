@@ -1,4 +1,4 @@
-# Augmented Random Search on Brax Physics Engine (PyTorch)
+# Augmented Random Search on Brax Physics Engine
 
 Welcome to the PyTorch implementation of the Augmented Random Search (ARS) algorithm for Brax! Brax is a differentiable physics engine that simulates environments made up of rigid bodies, joints, and actuators. It is written in JAX and optimized for use on acceleration hardware, allowing for both efficient single-device simulation and scalable, massively parallel simulation on multiple devices.
 
